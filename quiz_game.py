@@ -42,6 +42,5 @@ else:
     print("Incorrect!")
 
 print("You got " + str(score) + "question correct!")
-print("You got " + str((score / 4) * 100) + "%")
-print("Thanks for participating")
-print("See you next time")
+print("You got " + str((score / 4) * 100) + "%") 
+print("show it's going to the old remote")
